@@ -1,0 +1,28 @@
+BEGIN:VCARD
+VERSION:4.0
+KIND:individual
+UID:urn:uuid:c22ddf34-7c2f-4aa5-8dc9-898937fa0ad1
+SOURCE:https://jaimeroelandts.github.io/assets/permalink/vcards/jaime-en-light.vcf
+FN;ALTID=1;LANGUAGE=en:Jaime Roelandts
+N;ALTID=1;LANGUAGE=en:Roelandts;Jaime;;Dr. ir.;
+PHOTO;MEDIATYPE=image/jpeg:https://jaimeroelandts.github.io/assets/permalink/profile-photo-512-512.jpg
+GENDER:M
+LANG;PREF=1:en-US
+LANG;PREF=2:fr-BE
+LANG;PREF=3:nl-BE
+LANG;PREF=4:ja
+TZ:Asia/Tokyo
+URL:https://jaimeroelandts.github.io/
+EMAIL;TYPE=WORK:Jaime.Roelandts@cpc.ait.kyushu-u.ac.jp
+KEY;MEDIATYPE=application/pgp-keys:https://keys.openpgp.org/vks/v1/by-fingerprint/D65427F69E3F222D8B28E7016DEA83A9FE8B2E7F
+ADR;ALTID=1;LANGUAGE=en;TYPE=WORK:;;#711 West 2nd building, 744;Motooka Nishi-ku Fukuoka;Fukuoka-ken;819-0395;Japan
+ORG:Kyushu University;システム情報科学;
+TITLE;ALTID=1;LANGUAGE=en:Postdoctoral Researcher
+ROLE;ALTID=1;LANGUAGE=en:Postdoctoral Researcher
+SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/jaime-roelandts
+SOCIALPROFILE;TYPE=orcid:https://orcid.org/0000-0001-8937-6888
+SOCIALPROFILE;TYPE=dblp:https://dblp.org/pid/362/9014.html
+URL;TYPE=linkedin:https://www.linkedin.com/in/jaime-roelandts
+URL;TYPE=orcid:https://orcid.org/0000-0001-8937-6888
+URL;TYPE=dblp:https://dblp.org/pid/362/9014.html
+END:VCARD
